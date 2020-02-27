@@ -2,3 +2,21 @@
 2020-02-11T07:29:26.499248-0500 Inserted 100 rows into `weekly_stats` with 4 columns: title, url, slug, views
 2020-02-11T07:29:28.552129-0500 Inserted 500 rows into `monthly_stats` with 4 columns: title, url, slug, views
 2020-02-11T07:29:28.552409-0500 Completed migration of 600 rows from BigQuery to MySQL.
+2020-02-18T21:49:34.943218-0500 Inserted 100 rows into `weekly_stats` with 4 columns: title, url, slug, views
+2020-02-18T21:49:37.277036-0500 Inserted 500 rows into `monthly_stats` with 4 columns: title, url, slug, views
+2020-02-18T21:49:37.277315-0500 Completed migration of 600 rows from BigQuery to MySQL.
+2020-02-27T02:10:34.566368-0500 Inserted 100 rows into `weekly_stats` with 4 columns: title, url, slug, views
+2020-02-27T02:10:36.720639-0500 Inserted 500 rows into `monthly_stats` with 4 columns: title, url, slug, views
+2020-02-27T02:10:36.720916-0500 Completed migration of 600 rows from BigQuery to MySQL.
+2020-02-27T02:12:23.431187-0500 Inserted 100 rows into `weekly_stats` with 4 columns: title, url, slug, views
+2020-02-27T02:12:25.620839-0500 Inserted 1000 rows into `monthly_stats` with 4 columns: title, url, slug, views
+2020-02-27T02:12:25.621105-0500 Completed migration of 1100 rows from BigQuery to MySQL.
+2020-02-27T02:13:26.526190-0500 Inserted 100 rows into `weekly_stats` with 4 columns: title, url, slug, views
+2020-02-27T02:13:29.466800-0500 Inserted 1000 rows into `monthly_stats` with 4 columns: title, url, slug, views
+2020-02-27T02:13:29.467201-0500 Completed migration of 1100 rows from BigQuery to MySQL.
+2020-02-27T02:13:51.907150-0500 Inserted 100 rows into `weekly_stats` with 4 columns: title, url, slug, views
+2020-02-27T02:13:54.298060-0500 Inserted 2000 rows into `monthly_stats` with 4 columns: title, url, slug, views
+2020-02-27T02:13:54.298332-0500 Completed migration of 2100 rows from BigQuery to MySQL.
+2020-02-27T02:17:29.164111-0500 Inserted 100 rows into `weekly_stats` with 4 columns: title, url, slug, views
+2020-02-27T02:17:32.398518-0500 Inserted 2000 rows into `monthly_stats` with 4 columns: title, url, slug, views
+2020-02-27T02:17:32.398809-0500 Completed migration of 2100 rows from BigQuery to MySQL.

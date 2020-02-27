@@ -13,4 +13,4 @@ GROUP BY
 ORDER BY
   COUNT(title) DESC
 LIMIT
-  500;
+  2000;
