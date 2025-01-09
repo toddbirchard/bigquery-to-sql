@@ -16,17 +16,7 @@ Lightweight ETL script to migrate data from BigQuery to SQL databases, or vice v
 
 ## Getting Started
 
-Installation via [Pipenv](https://pipenv-fork.readthedocs.io/en/latest/):
-
-```shell
-$ git clone https://github.com/hackersandslackers/bigquery-python-tutorial.git
-$ cd bigquery-sqlalchemy-tutorial
-$ pipenv shell
-$ pipenv update
-$ python3 main.py
-```
-
-Installation via [Poetry](https://python-poetry.org/):
+**Installation via [Poetry](https://python-poetry.org/):**
 
 ```shell
 $ git clone https://github.com/hackersandslackers/bigquery-python-tutorial.git
@@ -35,7 +25,7 @@ $ poetry install
 $ poetry run
 ```
 
-Alternatively, try installing via `setup.py`:
+**Alternatively, try installing via `setup.py`:**
 
 ```shell
 $ git clone https://github.com/hackersandslackers/bigquery-python-tutorial.git
